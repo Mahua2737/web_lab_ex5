@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="xml.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<products>
+    <product>
+        <id>1</id>
+        <name>chocolate</name>
+        <price>999.99</price>
+        <description>70% dark chocolate.</description>
+    </product>
+    <product>
+        <id>2</id>
+        <name>Mobile</name>
+        <price>500</price>
+        <description>Iphone15 pro</description>
+    </product>
+    <product>
+        <id>3</id>
+        <name>Kurti</name>
+        <price>200</price>
+        <description>short kurti</description>
+    </product>
+</products>
